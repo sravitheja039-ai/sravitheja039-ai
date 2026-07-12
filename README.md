@@ -1,92 +1,126 @@
-<h1 align="center">Hi, I'm Ravitheja S 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack Developer (MERN) | Problem Solver | CS Engineering Graduate 2026
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E293B&height=180&section=header&text=Ravitheja%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ravitheja606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitheja606@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK.com)
 
-### 🚀 About Me
+</div>
 
-- 🎓 Computer Science Engineering graduate (2026), SDM Institute of Technology, VTU
-- 💻 Currently building full-stack web applications with the **MERN stack**
-- 🧩 Practicing **Data Structures & Algorithms** and solving problems daily
-- 🌱 Learning to write cleaner, production-style code and deploy real projects
-- 🎯 Looking for **Software Engineer / Full Stack Developer** opportunities
-- ⚡ Fun fact: I train in the gym and play badminton when I'm not debugging
+<br/>
 
----
+## About Me
 
-### 🛠️ Tech Stack
+I'm a Computer Science Engineering graduate (2026) from SDM Institute of Technology (VTU), focused on full-stack web development with the **MERN stack**. I enjoy building applications end-to-end — from database design to polished UI — and I'm currently strengthening my problem-solving skills through consistent **Data Structures & Algorithms** practice.
 
-**Languages**
+I'm actively seeking **Software Engineer / Full Stack Developer** roles where I can contribute to real-world products and keep growing as an engineer.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Frontend**
+**🔭 Currently working on**
+Full-stack projects with authentication, protected routes, and clean CRUD architecture
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+**🌱 Currently learning**
+Advanced DSA patterns, system design fundamentals
 
-**Backend**
+</td>
+<td valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+**💼 Open to**
+Software Engineer · Full Stack Developer roles
 
-**Databases**
+**📍 Based in**
+Karnataka, India
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+</tr>
+</table>
 
-**Tools**
+<br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+## Tech Stack
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sravitheja039-ai&show_icons=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravitheja039-ai&theme=default" width="48%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravitheja039-ai&layout=compact&theme=default" width="48%" />
-</p>
+<br/>
 
----
+## GitHub Analytics
 
-### 📌 Featured Projects
+<div align="center">
 
-**[Project Name — MERN CRUD + JWT Auth](https://github.com/sravitheja039-ai/REPO-LINK)**
-Full-stack web app with user authentication (JWT), protected routes, and full CRUD functionality.
-`MongoDB` `Express.js` `React.js` `Node.js`
+<img src="https://github-readme-stats.vercel.app/api?username=sravitheja039-ai&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2563EB&icon_color=2563EB" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravitheja039-ai&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB" width="48%"/>
 
-**[Air Canvas — Virtual Whiteboard](https://github.com/sravitheja039-ai/REPO-LINK)**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravitheja039-ai&layout=compact&theme=default&hide_border=true&title_color=2563EB&langs_count=8" width="48%"/>
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔐 MERN Auth App**
+Full-stack app with JWT authentication, protected routes, and complete CRUD functionality.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[View Repo →](https://github.com/sravitheja039-ai/REPO-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+**✋ Air Canvas**
 Gesture-controlled virtual whiteboard using computer vision and real-time hand tracking.
+
 `Python` `OpenCV` `MediaPipe`
 
-**[Drug Adverse Side Effect Prediction](https://github.com/sravitheja039-ai/REPO-LINK)**
-ML system to predict potential adverse drug reactions from patient data.
+[View Repo →](https://github.com/sravitheja039-ai/REPO-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+**💊 Drug Side Effect Predictor**
+ML system predicting adverse drug reactions from patient data to assist safer prescribing.
+
 `Python` `Scikit-learn` `Pandas`
 
----
+[View Repo →](https://github.com/sravitheja039-ai/REPO-LINK)
 
-<p align="center"><i>Open to Software Engineer / Full Stack Developer roles — let's connect!</i></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+*Open to Software Engineer / Full Stack Developer opportunities — let's connect.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:2563EB&height=100&section=footer" width="100%"/>
+
+</div>
